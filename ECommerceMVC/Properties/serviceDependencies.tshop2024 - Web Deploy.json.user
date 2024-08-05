@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-07-09T17:43:29.7549977Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "9f2a36e1-e94b-4ae9-929a-81be96341acc"
+    },
+    "tshop2024.resourceGroupLocation": {
+      "Name": "tshop2024.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastasia"
+    },
+    "tshop2024.resourceGroupName": {
+      "Name": "tshop2024.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tshop2024"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tshop2024"
+    },
+    "tshop2024.subscriptionId": {
+      "Name": "tshop2024.subscriptionId",
+      "Type": "subscription",
+      "Value": "9f2a36e1-e94b-4ae9-929a-81be96341acc"
+    },
+    "tshop2024.resourceName": {
+      "Name": "tshop2024.resourceName",
+      "Type": null,
+      "Value": "tshop2024"
+    }
+  }
+}
